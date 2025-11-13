@@ -9,4 +9,4 @@ The final model uses a leakage-free LSTM neural network, achieving:
 
 📉 MAE: 16.28 cycles
 
-These results are fully aligned with published benchmarks for FD001.
+
